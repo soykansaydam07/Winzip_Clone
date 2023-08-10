@@ -1,0 +1,7 @@
+C:\Users\soykan\Desktop\C#\C# Working\ZipPartition\ZipPartition\bin\Debug\ZipPartition.dll
+C:\Users\soykan\Desktop\C#\C# Working\ZipPartition\ZipPartition\bin\Debug\ZipPartition.pdb
+C:\Users\soykan\Desktop\C#\C# Working\ZipPartition\ZipPartition\bin\Debug\DotNetZip.dll
+C:\Users\soykan\Desktop\C#\C# Working\ZipPartition\ZipPartition\bin\Debug\DotNetZip.xml
+C:\Users\soykan\Desktop\C#\C# Working\ZipPartition\ZipPartition\obj\Debug\ZipPartition.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\C#\C# Working\ZipPartition\ZipPartition\obj\Debug\ZipPartition.dll
+C:\Users\soykan\Desktop\C#\C# Working\ZipPartition\ZipPartition\obj\Debug\ZipPartition.pdb

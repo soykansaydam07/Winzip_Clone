@@ -1,0 +1,6 @@
+C:\Users\soykan\Desktop\C#\C# Working\UnzipPartition\UnzipPartition\bin\Debug\UnzipPartition.dll
+C:\Users\soykan\Desktop\C#\C# Working\UnzipPartition\UnzipPartition\bin\Debug\UnzipPartition.pdb
+C:\Users\soykan\Desktop\C#\C# Working\UnzipPartition\UnzipPartition\bin\Debug\DotNetZip.dll
+C:\Users\soykan\Desktop\C#\C# Working\UnzipPartition\UnzipPartition\bin\Debug\DotNetZip.xml
+C:\Users\soykan\Desktop\C#\C# Working\UnzipPartition\UnzipPartition\obj\Debug\UnzipPartition.dll
+C:\Users\soykan\Desktop\C#\C# Working\UnzipPartition\UnzipPartition\obj\Debug\UnzipPartition.pdb

@@ -1,0 +1,39 @@
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\GridAllFile.exe.config
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Form1.resources
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Properties.Resources.resources
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\GridAllFile.exe
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\GridAllFile.pdb
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.exe
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.pdb
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Adding.resources
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Unzip.resources
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\DotNetZip.dll
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\DotNetZip.xml
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\UnzipPartition.dll
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\UnzipPartition.pdb
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\ZipPartition.dll
+C:\Users\soykan\Desktop\C#\C# Working\GridAllFile\GridAllFile\bin\Debug\ZipPartition.pdb
+C:\Users\soykan\Desktop\GridAllFile\GridAllFile\bin\Debug\GridAllFile.exe.config
+C:\Users\soykan\Desktop\GridAllFile\GridAllFile\obj\Debug\GridAllFile.pdb
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\GridAllFile.exe.config
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\GridAllFile.exe
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\GridAllFile.pdb
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\DotNetZip.dll
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\UnzipPartition.dll
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\ZipPartition.dll
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\DotNetZip.xml
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\UnzipPartition.pdb
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\bin\Debug\ZipPartition.pdb
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.csproj.AssemblyReference.cache
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Adding.resources
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Form1.resources
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Properties.Resources.resources
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.Unzip.resources
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.csproj.GenerateResource.cache
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.csproj.CoreCompileInputs.cache
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.csproj.CopyComplete
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.exe
+C:\Users\Soykan\Desktop\ \University\Staj Projeler\Zip\GridAllFile\GridAllFile\obj\Debug\GridAllFile.pdb
